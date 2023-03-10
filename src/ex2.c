@@ -9,13 +9,13 @@
  *
  * Exemplos:
  *    Digite os valores para o array: 1 2 3 4 5 6 7 -100
- *    4.00 +- 1.7
+ *    4.00 +- 2.0
  *
  *    Digite os valores para o array: 1 1 1 1 1 1 1 1 1 1 1 -100
  *    1.00 +- 0.0
  *
  *    Digite os valores para o array: 10 20 1 40 50 90 100 -100
- *    44.43 +- 29.8
+ *    44.43 +- 35.6
  *
  */
 
